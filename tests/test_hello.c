@@ -2,7 +2,7 @@
 
 int add(int a, int b);
 
-int main(void) {
+int run_tests(void) {
     int result = add(2, 3);
     if (result == 5) {
         printf("Test passed!\n");
