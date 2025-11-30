@@ -5,7 +5,7 @@ int add(int a, int b) {
 }
 
 int main(void) {
-    int result = add(2, 3);
+    int result = add(4, 9);
     printf("Result = %d\n", result);
     return 0;
 }
